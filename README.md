@@ -1,1 +1,9 @@
 # Python-exercises
+Day1: 
+ Display number -10 to 0 using a for loop 
+
+ Day2:
+  Return product if product <=1000, otherwise return sum 
+
+  Day3:
+    print current number , previous number and their sum 
