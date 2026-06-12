@@ -7,3 +7,6 @@ Day1:
 
   Day3:
     print current number , previous number and their sum 
+
+Day4:
+  Display characters present at even index positions in the string 
