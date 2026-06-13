@@ -10,3 +10,5 @@ Day1:
 
 Day4:
   Display characters present at even index positions in the string 
+Day5:
+     write a function to remove character from a string from index o to n and return new string
