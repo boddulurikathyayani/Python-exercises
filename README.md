@@ -13,3 +13,6 @@ Day4:
   
 Day5:
      write a function to remove character from a string from index o to n and return new string
+
+Day6:
+  Swap the values of two variables without using a third temporary variable
