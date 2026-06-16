@@ -19,3 +19,6 @@ Day6:
 
 Day7:
    calculate the factorial of a given number using a for loop.
+
+Day8:
+  Create a list of 5 fruits. Add a new fruit to the end of the list, then remove the second fruit.
