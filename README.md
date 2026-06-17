@@ -22,3 +22,7 @@ Day7:
 
 Day8:
   Create a list of 5 fruits. Add a new fruit to the end of the list, then remove the second fruit.
+
+Day9:
+ a program to reverse a string.
+Used Python slicing [::-1] to reverse the string.
