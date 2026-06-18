@@ -26,3 +26,6 @@ Day8:
 Day9:
  a program to reverse a string.
 Used Python slicing [::-1] to reverse the string.
+
+Day10:
+Loop through each character and check if it is a vowel using membership (in "aeiou").
