@@ -29,3 +29,6 @@ Used Python slicing [::-1] to reverse the string.
 
 Day10:
 Loop through each character and check if it is a vowel using membership (in "aeiou").
+
+Day11:Find the largest and smallest numbers in a list.
+Iterated through the list and compared each element to find max and min values.
