@@ -32,3 +32,6 @@ Loop through each character and check if it is a vowel using membership (in "aei
 
 Day11:Find the largest and smallest numbers in a list.
 Iterated through the list and compared each element to find max and min values.
+
+Day12:
+  Remove duplicate items from a list and return only unique elements.
