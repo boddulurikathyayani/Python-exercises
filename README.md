@@ -35,3 +35,6 @@ Iterated through the list and compared each element to find max and min values.
 
 Day12:
   Remove duplicate items from a list and return only unique elements.
+
+Day13:
+Check if the first and last elements of a list are the same.
