@@ -38,3 +38,6 @@ Day12:
 
 Day13:
 Check if the first and last elements of a list are the same.
+
+Day14:
+  write a program Using a loop and modulo operator (%) to filter numbers divisible by 5.
