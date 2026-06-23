@@ -41,3 +41,6 @@ Check if the first and last elements of a list are the same.
 
 Day14:
   write a program Using a loop and modulo operator (%) to filter numbers divisible by 5.
+
+Day15:
+  write a program Using the count() method to count occurrences of the substring.
