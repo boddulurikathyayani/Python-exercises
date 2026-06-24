@@ -44,3 +44,6 @@ Day14:
 
 Day15:
   write a program Using the count() method to count occurrences of the substring.
+
+Day16:
+ Print a pattern where each number is repeated based on its value.Using nested loops
