@@ -47,3 +47,10 @@ Day15:
 
 Day16:
  Print a pattern where each number is repeated based on its value.Using nested loops
+
+Day17:
+   Use modulo (%) and floor division (//) to reverse the number and compare it with the original.To check whether the given number is palindrome 
+
+Day18:
+  Create a new list containing odd numbers from the first list and even numbers from the second list using append().
+   
