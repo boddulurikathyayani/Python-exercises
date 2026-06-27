@@ -54,3 +54,5 @@ Day17:
 Day18:
   Create a new list containing odd numbers from the first list and even numbers from the second list using append().
    
+Day19:
+ Write a program to extract each digit from an integer in reverse order.
