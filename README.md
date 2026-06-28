@@ -56,3 +56,6 @@ Day18:
    
 Day19:
  Write a program to extract each digit from an integer in reverse order.
+
+Day20:
+ Using if-elif-else statements to calculate tax according to different income slabs.
