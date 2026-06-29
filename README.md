@@ -59,3 +59,6 @@ Day19:
 
 Day20:
  Using if-elif-else statements to calculate tax according to different income slabs.
+
+Day21:
+Print a multiplication table from 1 to 10 in a formatted grid.using nested loops.
