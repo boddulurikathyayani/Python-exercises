@@ -62,3 +62,6 @@ Day20:
 
 Day21:
 Print a multiplication table from 1 to 10 in a formatted grid.using nested loops.
+
+Day22: 
+Print a downward half-pyramid pattern using stars (*).using nested loop with reverse outer loop
