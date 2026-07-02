@@ -68,3 +68,6 @@ Print a downward half-pyramid pattern using stars (*).using nested loop with rev
 
 Day23:
 Implement exponent function to calculate base raised to exp.
+
+Day24:
+ Write a program to check whether a given number is a palindrome.
