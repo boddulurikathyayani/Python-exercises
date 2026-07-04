@@ -71,3 +71,6 @@ Implement exponent function to calculate base raised to exp.
 
 Day24:
  Write a program to check whether a given number is a palindrome.
+
+Day25: 
+implement Fibonacci series calculation and print output.
