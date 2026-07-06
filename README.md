@@ -80,3 +80,6 @@ Day26:
 
 Day27:
 Write a program to merge two dictionaries into a single dictionary.
+
+Day28:
+  write a program to find common elements 
