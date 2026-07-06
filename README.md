@@ -77,3 +77,6 @@ implement Fibonacci series calculation and print output.
 
 Day26:
   write a program to check wheather the given value is leap year.
+
+Day27:
+Write a program to merge two dictionaries into a single dictionary.
