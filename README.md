@@ -83,3 +83,5 @@ Write a program to merge two dictionaries into a single dictionary.
 
 Day28:
   write a program to find common elements 
+Day29:
+ print each list along with the character count.
