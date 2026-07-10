@@ -83,5 +83,9 @@ Write a program to merge two dictionaries into a single dictionary.
 
 Day28:
   write a program to find common elements 
+
 Day29:
  print each list along with the character count.
+
+ Day30: 
+  Count how many times each word appears in a given paragraph and store the counts in a dictionary. 
